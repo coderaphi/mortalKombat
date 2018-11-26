@@ -1,0 +1,77 @@
+#your_character{
+    margin-left: 1%;
+    
+    text-align: center;
+}
+
+.stage {
+
+
+    width: 80%;
+    margin-left: 23%;
+
+
+
+}
+
+#character_1,#character_2,#character_3,#character_0 {
+
+    text-align: center;
+}
+
+
+#stagechar1{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red
+}
+#attack_character{
+
+    margin-left: 20%;
+    text-align: center;
+
+
+
+}
+
+#charname_{
+
+    color:red;
+}
+
+.start{
+
+
+    font-size: 50px;
+    background-color: rgb(255, 255, 253);
+    margin-left: 43%;
+    margin-top: 1%;
+    color: red;
+    font-family: 'Frijole', cursive;
+    font-family: 'Nosifer', cursive;
+}
+
+#your_points{
+
+    color:white;
+    font-size: 20px;
+    background-color: red;
+    width: 150px;
+    height: 20px;
+    margin-left:15%;
+    
+}
+
+
+#attacker_points{
+
+    color:white;
+    font-size: 20px;
+    background-color: red;
+    width: 150px;
+    height: 20px;
+    margin-left:15%;
+
+
+}

@@ -2,6 +2,7 @@
     margin-left: 1%;
     
     text-align: center;
+
 }
 
 .stage {
@@ -9,6 +10,7 @@
 
     width: 80%;
     margin-left: 23%;
+    position: relative;
 
 
 
@@ -28,7 +30,7 @@
 }
 #attack_character{
 
-    margin-left: 20%;
+    margin-left: 28%;
     text-align: center;
 
 
@@ -75,3 +77,4 @@
 
 
 }
+
